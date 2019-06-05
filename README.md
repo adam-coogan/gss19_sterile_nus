@@ -7,9 +7,9 @@ Sterile neutrinos with keV mass are considered to be a good dark matter candidat
 ## Group members
 
 *Please add your last names!*
-* Rafael
-* Kostas
-* Kosio
+* Rafael Carreira
+* Kostas Antoniadis
+* Kosio Karchev
 
 
 ## References list
