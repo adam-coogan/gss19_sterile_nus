@@ -19,4 +19,4 @@ You might find it useful to add a list of references here. Add links like this:
 * https://arxiv.org/pdf/1901.00151.pdf
 * https://arxiv.org/pdf/1904.07108.pdf
 * https://arxiv.org/pdf/1807.07938.pdf
-* [The MiniBooNE Collaboration 2018](https://arxiv.org/pdf/1805.12028.pdf) (possible detection)
+* [The MiniBooNE Collaboration 2018](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.121.221801) (possible detection)
